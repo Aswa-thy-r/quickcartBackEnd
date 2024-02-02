@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKart-WebService", "QuickKartWebService\QuickKart-WebService.csproj", "{9ECE5365-ECBE-46A9-8146-6B3354748F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKart-BusinessLayer", "QuickKart-BusinessLayer\QuickKart-BusinessLayer.csproj", "{A8EE3137-33EB-425E-AC6A-BDCA77AFA06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKart-DataAccessLayer", "QuickKart-DataAccessLayer\QuickKart-DataAccessLayer.csproj", "{CBB44286-8C30-4A06-8399-0A4D45F93537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECE5365-ECBE-46A9-8146-6B3354748F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECE5365-ECBE-46A9-8146-6B3354748F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECE5365-ECBE-46A9-8146-6B3354748F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECE5365-ECBE-46A9-8146-6B3354748F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EE3137-33EB-425E-AC6A-BDCA77AFA06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EE3137-33EB-425E-AC6A-BDCA77AFA06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EE3137-33EB-425E-AC6A-BDCA77AFA06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EE3137-33EB-425E-AC6A-BDCA77AFA06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB44286-8C30-4A06-8399-0A4D45F93537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB44286-8C30-4A06-8399-0A4D45F93537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB44286-8C30-4A06-8399-0A4D45F93537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB44286-8C30-4A06-8399-0A4D45F93537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {823ADC7E-EB35-4581-A216-A0464AA40FBF}
+	EndGlobalSection
+EndGlobal
